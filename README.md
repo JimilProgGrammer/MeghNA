@@ -9,7 +9,7 @@ For the purpose of training the model,we first manually annotated the part of im
 
 ##### Satellite Image
 
-![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/14.png?raw=True)
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/13.png?raw=True)
 
 ##### Mask RCNN Result
 
