@@ -13,4 +13,4 @@ For the purpose of training the model,we first manually annotated the part of im
 
 ##### Mask RCNN Result
 
-![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/results.png?raw=True)
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/results.png?raw=True =432x288)
