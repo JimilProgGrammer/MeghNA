@@ -1,4 +1,4 @@
-#  MeghNA Cloud Detection Algorithms
+﻿#  MeghNA Cloud Detection Algorithms
 This branch maintains code for all algorithms tried for the cloud detection problem.
 ## Mask RCNN
 
@@ -13,4 +13,4 @@ For the purpose of training the model,we first manually annotated the part of im
 
 ##### Mask RCNN Result
 
-<img src="https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/results.png" style="width: 432px; height: 288px;"/>
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/results.png?raw=True)
