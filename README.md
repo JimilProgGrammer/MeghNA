@@ -14,3 +14,27 @@ For the purpose of training the model,we first manually annotated the part of im
 ##### Mask RCNN Result
 
 ![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/results.png?raw=True)
+
+## KNN Clustering
+
+#### Results:
+
+##### 1. Original Satellite Image
+
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/KNN_Original_Capture.png?raw=True)
+
+##### 2. Clouds Mask
+
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/KNN_Cloud_Mask.png?raw=True)
+
+##### 3. Cloud Edges Marked
+
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/KNN_Edges_Marked.png?raw=True)
+
+##### KNN Result - Labelled Clouds
+
+![Image Description](https://github.com/JimilProgGrammer/MeghNA/blob/cloud-detection/docs/KNN_Clouds_Labelled.png?raw=True)
+
+#### References
+
+1. [Cloud Detection Papers - Drive Link](https://drive.google.com/drive/folders/11bdOtD2OZH48Xw-kpVe8TcC9SD5n15xO?usp=sharing)
